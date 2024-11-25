@@ -1,4 +1,4 @@
-[![MasterHead]([(https://giphy.com/embed/RbDKaczqWovIugyJmW))](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/embed/RbDKaczqWovIugyJmW)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm RaiFrost</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
